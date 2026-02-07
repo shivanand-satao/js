@@ -86,4 +86,8 @@ Strict type conversion
 
 
 🔟 No Main Function
+
+11.In JavaScript, characters are stored in UTF-16, so:
+
+At least 16 bits (2 bytes) are used
 */
